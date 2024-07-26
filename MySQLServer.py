@@ -7,7 +7,7 @@ mydb = mysql.connector.connect(
      user="root",
      password="Betsyme234!",
      port=3307,
-     database = "alx_book_store"
+     
  )
 cursor = mydb.cursor()
 
